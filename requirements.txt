@@ -1,0 +1,1 @@
+# Pure-stdlib demos; pydantic optional if you extend with structured classifiers
